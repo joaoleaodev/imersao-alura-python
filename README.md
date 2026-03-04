@@ -69,4 +69,4 @@ Se quiser acompanhar minha evolução ou trocar ideia sobre programação:
 
 LinkedIn: www.linkedin.com/in/joaoleaodev
 
-GitHub: github.com/joaoleaodev
+GitHub: https://github.com/joaoleaodev
