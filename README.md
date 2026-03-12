@@ -1,72 +1,74 @@
-# 🐍 Imersão de Python Iniciante - Alura
+# 🐍 Python Immersion - Alura
 
-Este repositório contém meus estudos, anotações e projetos desenvolvidos durante a Imersão de Python Iniciante da Alura.
+This repository contains my studies, notes, and projects developed during Alura's Python Immersion.
 
-# 🚀 Objetivo
+# 🚀 Objective
 
-Desenvolver minha base em lógica de programação utilizando Python, focando em:
+To develop my foundation in programming logic using Python, focusing on:
 
-Estruturas condicionais
+Conditional structures
 
-Laços de repetição
+Repetition loops
 
-Variáveis e tipos de dados
+Variables and data types
 
-Listas
+Lists
 
-Funções
+Functions
 
-Boas práticas de código
+Good coding practices
 
-Este projeto faz parte da minha jornada para me tornar Desenvolvedor de Software.
+This project is part of my journey to become a Software Developer.
 
-# 🧠 Conteúdos Aprendidos
+# 🧠 Content Learned
 
-✔️ Introdução ao Python
-✔️ Entrada e saída de dados
-✔️ Condições (if, else, elif)
+✔️ Introduction to Python
+✔️ Data input and output
+✔️ Conditions (if, else, elif)
 ✔️ Loops (for, while)
-✔️ Listas e manipulação de dados
-✔️ Funções
-✔️ Organização de código
+✔️ Lists and data manipulation
+✔️ Functions
+✔️ Code organization
 
-# 💻 Projetos Desenvolvidos
+# 💻 Projects Developed
 
-🎯 Projeto 1 – [Nome do Projeto]
+🎯 Project 1 – [Project Name]
 
-🎯 Projeto 2 – [Nome do Projeto]
+🎯 Project 2 – [Project Name]
 
-🎯 Projeto 3 – [Nome do Projeto]
+🎯 Project 3 – [Project Name]
 
-(Atualizarei conforme avanço na imersão)
+(I will update as I progress in the immersion)
 
-# 🛠 Tecnologias Utilizadas
+# 🛠 Technologies Used
 
 Python 3
 
 VS Code
 
-Git e GitHub
+Git and GitHub
 
-# 📈 Minha Evolução
+# 📈 My Evolution
 
-Este repositório representa minha evolução prática em Python.
-Estou construindo uma base sólida em lógica de programação para futuramente atuar com:
+This repository represents my practical evolution in Python.
+I am building a solid foundation in programming logic to work with in the future:
 
-Desenvolvimento Back-End
+Back-End Development
 
-Engenharia de Software
+Software Engineering
 
-Estágio em Desenvolvimento
+Development Internship
 
 # 📌 Status
 
-🚧 Em andamento
+🚧 In progress
 
-# 🤝 Conecte-se comigo
+# 🤝 Connect with me
 
-Se quiser acompanhar minha evolução ou trocar ideia sobre programação:
+If you want to follow my progress or exchange ideas about programming:
 
 LinkedIn: www.linkedin.com/in/joaoleaodev
 
 GitHub: https://github.com/joaoleaodev
+
+Translated with DeepL.com (free version)
