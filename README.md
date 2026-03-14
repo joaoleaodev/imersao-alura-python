@@ -1,4 +1,4 @@
-# 🐍 Python Immersion - Alura
+# 🐍 Python: Create Your First Application - Alura Immersion
 
 This repository contains my studies, notes, and projects developed during Alura's Python Immersion.
 
